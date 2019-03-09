@@ -6,7 +6,7 @@ import requests
 from googletrans import Translator
 
 class Page(object):
-	"""docstring for Page"""
+	"""don't know how to explain the class"""
 	def __init__(self):
 		self.title = ""				
 		self.explains = []
